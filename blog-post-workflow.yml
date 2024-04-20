@@ -11,4 +11,4 @@ jobs:
             - uses: gautamkrishnar/blog-post-workflow@master
               with: 
                 max_post_count: "4"
-                feed_list: "https://medium.com/feed/@abhinjsam2002, https://www.linkedin.com/in/abhin-j-sam-373119297?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+                feed_list: "https://medium.com/feed/@abhinjsam2002"
