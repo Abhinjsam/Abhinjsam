@@ -14,7 +14,6 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-"https://medium.com/feed/@abhinjsam2002"
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
