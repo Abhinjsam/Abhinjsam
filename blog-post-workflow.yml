@@ -1,0 +1,14 @@
+name: Latest blog post workflow
+on: 
+    schedule:
+        - cron: '0 * * * *'
+jobs: 
+    update-readme-with-blog: 
+        name: Update this repo's README with latest blog posts
+        runs-on: ubuntu-latest
+        steps: 
+            - uses: actions/checkout@v2
+            - uses: gautamkrishnar/blog-post-workflow@master
+              with: 
+                max_post_count: "4"
+                feed_list: "https://medium.com/feed/@abhinjsam2002, https://www.linkedin.com/in/abhin-j-sam-373119297?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
