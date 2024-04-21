@@ -50,3 +50,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhinjsam&theme=dracula&show_icons=true&locale=en" alt="abhinjsam" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhinjsam&&theme=dracula" alt="abhinjsam" /></p>
+
+[![Abhin J Sam's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Abhinjsam&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
